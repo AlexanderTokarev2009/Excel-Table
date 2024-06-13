@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+}
+.ball{
+	width: 100px;
+	height: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+#row, .row{
+    display: flex;
+}
+#letter{
+    width: 1070px;
+    margin-left: 100px;
+    height: 20px;
+    display: flex;
+}
+#number{
+    width: 100px;
+    height: 280px;
+}
+.combo{
+    display: flex;
+}
+.hidden{
+    display: none;
+}
